@@ -88,6 +88,8 @@ header img {
 
 .section-two {
     margin-left: 16px;
+    justify-content: space-between
+
 }
 .contract {
     border: 1px solid transparent;
@@ -97,4 +99,24 @@ header img {
     padding: 8px 10px;
     border-radius: 10px;
     background-color: #1d4142;
+}
+.link-two{
+    display: flex;
+
+    justify-content: space-between;
+
+    }
+.link-two a {
+    color: #f4f4f4;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    
+   
+}
+.vdd-link {
+    border: 1px solid transparent;
+    padding: 8px 10px;
+    border-radius: 10px;
+    background-color: #00998f;
 }
